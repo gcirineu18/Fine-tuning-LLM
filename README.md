@@ -5,4 +5,9 @@
 https://medium.com/data-hackers/construindo-aplica%C3%A7%C3%B5es-personalizadas-com-llm-atrav%C3%A9s-de-rag-retrieve-augmented-generation-6f3a3df7b6de
 
 * Criar um fluxo?
+* Na parte de Recuperação para a e inserção e busca de documentos, quais documentos serão relevantes? 
 * Banco de dados Vetorial (componente essencial que elevou a qualidade de buscas textuais e está constantemente presente nas arquiteturas de RAG )
+
+Como refinar o LLM do Deepseek?
+
+ver quais as prioridades
